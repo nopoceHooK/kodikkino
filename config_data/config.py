@@ -1,0 +1,4 @@
+
+TELEGRAM_BOT_KEY = ("TOKEN")
+API_KEY = ("TOKKEN")
+
